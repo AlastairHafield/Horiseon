@@ -1,13 +1,26 @@
-
+/*main postioning*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*background colour, position and img*/
+
 body {
     background-color: #d9dcd6;
 }
+
+.background {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*nav positioning, styles and fonts*/
 
 .header {
     padding: 20px;
@@ -30,6 +43,8 @@ body {
     font-size: 20px;
 }
 
+/*nav link stlyes*/
+
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -40,18 +55,11 @@ a {
     text-decoration: none;
 }
 
+/*main content left img position, styles and text*/
+
 p {
     font-size: 16px;
     color: #ffffff;
-}
-
-.background {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
@@ -88,6 +96,8 @@ p {
     font-size: 36px;
 }
 
+/*benefits section main right img positioning, styles and fonts*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +124,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*footer styles and positioning*/
 
 .footer {
     padding: 30px;
