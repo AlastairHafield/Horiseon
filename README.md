@@ -5,11 +5,11 @@ This project was undertaken to refactor code, improve accessability and also imp
 
 # Updates:
 
-Semantic HTML5 elements for better SEO performance.
-Reordered HTML,CSS for more logical structure.
-Added ALT attributes to images.
-Heading attributes sequential order
-Added Meta data for title and device.
+* Semantic HTML5 elements for better SEO performance.
+* Reordered HTML,CSS for more logical structure.
+* Added ALT attributes to images.
+* Heading attributes sequential order
+* Added Meta data for title and device.
 
 # URL:
 
