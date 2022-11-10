@@ -13,7 +13,8 @@ This project was undertaken to refactor code, improve accessability and also imp
 
 # URL:
 
-   https://github.com/AlastairHafield/Horiseon-Alastair-Hatfield                                                                 
+https://alastairhafield.github.io/Horiseon-Alastair-Hatfield/index.HTML
+
 # Usage:
 
 For client Horiseon Social Soloutions LTD 
